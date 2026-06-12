@@ -20,7 +20,7 @@
 - 🌱 Currently deepening my skills in **PyTorch**, model evaluation, and data engineering
 - 💼 **Looking for a 5-month data internship** starting November 2026
 - 🗣️ Bilingual **French / English**, proficient in **Spanish**, raised in Hong Kong
-- 🏸 Off the keyboard you'll find me playing badminton, tennis, or rugby
+- 🏸 Off the keyboard you'll find me playing badminton, tennis, or travelling
 
 ---
 
