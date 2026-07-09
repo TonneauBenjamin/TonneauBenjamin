@@ -71,17 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonneauBenjamin&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonneauBenjamin&layout=compact&hide_border=true&cache_seconds=86400)
-
-</div>
-
----
-
 <div align="center">
 
 💬 Open to discussing data science, machine learning, or internship opportunities. Feel free to reach out!
