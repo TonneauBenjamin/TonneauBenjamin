@@ -18,7 +18,6 @@
 - 🎓 Third-year engineering student at **EFREI Paris** (Université Panthéon-Assas), specializing in **Data Science & Machine Learning**
 - 🇨🇳 Completed an exchange semester at **Southeast University (SEU)** in Nanjing, ranked top 17 worldwide in CS & Engineering
 - 🌱 Currently deepening my skills in **PyTorch**, model evaluation, and data engineering
-- 💼 **Looking for a 5-month data internship** starting November 2026
 - 🗣️ Bilingual **French / English**, proficient in **Spanish**, raised in Hong Kong
 - 🏸 Off the keyboard you'll find me playing badminton, tennis, or travelling
 
