@@ -18,8 +18,8 @@
 ```python
 class BenjaminTonneau:
     school     = "EFREI Paris (Paris-Panthéon-Assas University)"
-    year       = "4th year, engineering cycle"
-    focus      = ["Data Engineering", "Machine Learning"]
+    year       = "4th year"
+    focus      = ["Data Engineering"]
     exchange   = "Southeast University (SEU), Nanjing"
     learning   = ["data pipelines", "PyTorch", "model evaluation"]
     languages  = {"French": "native", "English": "native", "Spanish": "proficient"}
