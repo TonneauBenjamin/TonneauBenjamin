@@ -84,10 +84,10 @@ class BenjaminTonneau:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TonneauBenjamin&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonneauBenjamin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TonneauBenjamin&theme=tokyonight&hide_border=true" />
 
 </div>
 
